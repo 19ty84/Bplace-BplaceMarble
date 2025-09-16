@@ -134,8 +134,8 @@ if (mapCSS) {
 
 // Adds the banner
 fs.writeFileSync(
-  'dist/BlueMarble.user.js', 
-  metaContent + fs.readFileSync('dist/BlueMarble.user.js', 'utf8'), 
+  'dist/BlueMarble.user.js',
+  metaContent + fs.readFileSync('dist/BlueMarble.user.js', 'utf8'),
   'utf8'
 );
 
