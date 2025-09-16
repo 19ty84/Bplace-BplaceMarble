@@ -20,6 +20,6 @@
 // @resource     CSS-BM-File https://raw.githubusercontent.com/19ty84/Bplace-BplaceMarble/main/dist/BlueMarble.user.css
 // ==/UserScript==
 
-// Wplace  --> https://bplace.org
+// Bplace  --> https://bplace.org
 // License --> https://www.mozilla.org/en-US/MPL/2.0/
 
